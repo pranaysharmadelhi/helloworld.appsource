@@ -1,0 +1,51 @@
+﻿{
+    "id":  "00000000-0000-0000-0000-000000000002",
+    "name":  "Default Test App Name",
+    "publisher":  "Default Publisher",
+    "version":  "2.0.47.0",
+    "brief":  "Hello World for AppSource tests",
+    "description":  "Hello World sample test app for AppSource",
+    "platform":  "17.0.0.0",
+    "application":  "17.0.0.0",
+    "runtime":  "6.0",
+    "logo":  "",
+    "url":  "https://dev.azure.com/businesscentralapps/HelloWorld.AppSource",
+    "EULA":  "https://dev.azure.com/businesscentralapps/HelloWorld.AppSource",
+    "privacyStatement":  "https://dev.azure.com/businesscentralapps/HelloWorld.AppSource",
+    "help":  "https://dev.azure.com/businesscentralapps/HelloWorld.AppSource",
+    "target":  "Cloud",
+    "screenshots":  [
+
+                    ],
+    "dependencies":  [
+                         {
+                             "id":  "23de40a6-dfe8-4f80-80db-d70f83ce8caf",
+                             "publisher":  "Microsoft",
+                             "name":  "Test Runner",
+                             "version":  "17.0.0.0"
+                         },
+                         {
+                             "id":  "00000000-0000-0000-0000-000000000001",
+                             "publisher":  "Default Publisher",
+                             "name":  "Default App Name",
+                             "version":  "2.0.0.0"
+                         }
+                     ],
+    "idRanges":  [
+                     {
+                         "from":  50100,
+                         "to":  50149
+                     }
+                 ],
+    "features":  [
+                     "TranslationFile"
+                 ],
+    "showMyCode":  true,
+    "contextSensitiveHelpUrl":  "https://dev.azure.com/businesscentralapps/HelloWorld.AppSource",
+    "internalsVisibleTo":  [
+
+                           ],
+    "keyVaultUrls":  [
+
+                     ]
+}
