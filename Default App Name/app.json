@@ -21,7 +21,13 @@
       "publisher": "Default Publisher",
       "name": "Default Base App Name",
       "version": "2.1.0.0"
-    }
+    },
+    {
+    "id": "8f7cdd5f-1af2-4ec2-a1f3-ecb959ec395b",
+    "publisher": "iSolutions",
+    "name": "iPayments Credit Card & Collections",
+    "version":"18.21.11.0"
+  }
   ],
   "idRanges": [
     {
